@@ -1,0 +1,44 @@
+body {
+    margin: 0%;
+    font-family: verdana;
+}
+
+.header {
+    height: 5em;
+    padding: 5em;
+    font-size: 2em;
+    background-image: url("../img/fondo\ 3.jpg");
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 3em;
+}
+
+.header h1 {
+    margin: 0px;
+    font-weight: 80;
+}
+
+.shoes {
+    width: 70%;
+    margin: auto;
+}
+  
+.shoes td {
+    width: 20%;
+    padding: 2em;
+    font-weight: 400px;
+}
+  
+.shoes img {
+    max-width: 100%;
+    border: solid 3px black;
+}
+  
+.footer{
+    height: 3em;
+    line-height: 3em;
+    background-color: skyblue;
+    color: black;
+    text-align: center;
+    font-weight: 900;
+}

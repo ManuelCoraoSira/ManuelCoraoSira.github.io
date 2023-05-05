@@ -1,0 +1,36 @@
+body{
+    background-color: white;
+    color: red;
+    font-family: verdana;
+    }
+.one {
+    background-color: aqua;
+    color: black; 
+    border: solid 1px black;
+    padding: 20px;
+    margin: 50px;
+}
+.two {
+    background-color: white;
+    color: black;
+    border: solid 1px black;
+    padding: 20px;
+    margin: 50px;
+}
+.three {
+    background-color:blueviolet;
+    color: black;
+    border: solid 1px black;
+    padding: 20px;
+    margin: 50px;
+}
+.footer{
+    height: 3em;
+    line-height: 3em;
+    background-color: rgb(185, 112, 41);
+    color: black;
+    text-align: center;
+    font-weight: 900;
+    margin-top: 1em;
+  }
+/* comentario fuera de la pag web */

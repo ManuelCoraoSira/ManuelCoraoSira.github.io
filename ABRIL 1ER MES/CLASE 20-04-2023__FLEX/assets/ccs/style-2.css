@@ -1,0 +1,10 @@
+.features {
+    float: left;
+    width: 33%;
+}
+
+.padre {
+    background-color: blueviolet;
+    display: flow-root;
+}
+                 

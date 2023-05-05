@@ -1,0 +1,62 @@
+header  {
+    margin: 0px;
+    background-color: black;
+}
+
+.boxes {
+    width: 100%;
+    max-width: 1500px;
+    min-width: 800px;
+    margin: 20px auto;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 25px;
+}
+
+.box img {
+    max-width: 100%;
+}
+
+.box {
+    color: skyblue;
+    font-size: 2rem;
+    text-align: center;
+    width: 300px;
+    height: 300px;
+}
+
+body, ul {
+    margin: 0px;
+    justify-content: space-between;
+}
+
+ul {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+    background-color: black;
+    color: skyblue;
+}
+
+li {
+    padding: 1.2rem;
+}
+
+li:hover {
+    background-color: chocolate;
+    color: black;
+}
+
+.caracteristicas {
+    background-color: mediumorchid;
+    text-align: center;
+    padding: 20px;
+}
+
+.icon {
+    display: flex;
+    gap: 20px; 
+}
+
