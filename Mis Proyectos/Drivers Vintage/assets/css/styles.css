@@ -1,0 +1,56 @@
+.body {
+    font-family: 'Roboto';
+}
+
+.navbar {
+    background-color: #ffffbf;
+    font-size: 20px;
+}
+
+.navbar-brand img{
+    width: 10rem;
+}
+
+a.nav-text {
+    color: #722f37;
+}
+
+.card {
+    box-shadow: 0px 1px 10px black;
+    transition: all 800ms ease;
+}
+
+.card:hover {
+    transform: translateY(-3%);
+}
+
+.card img {
+    transition: all 0.8s ease;
+}
+
+.card img:hover {
+    transition: all 0.6s ease;
+    filter: brightness(30%)
+} 
+
+.precios-2 {
+    color: #722f37;
+    font-size: 1.5rem;
+}
+
+.formulario {
+    background-color: #ffffbf;
+}
+
+.text-center {
+    color: #722f37;
+}
+
+.btn {
+    background-color: #722f37;
+    color: white;
+}
+
+footer img {
+    width: 5rem;
+}

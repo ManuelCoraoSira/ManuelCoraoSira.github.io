@@ -1,0 +1,110 @@
+.header {
+    height: 73px;
+    background-color: black; 
+}
+
+.iguanas {
+    top: 7px;
+    height: 59px;
+    font-family:'Raleway';
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    position: relative;
+    margin: 0px;
+}
+
+.bg-header {
+    height: 727px;
+    background-image: url(../img/bg-header.jpg);
+}
+
+.bg-header img {
+    width: 100%;
+    height: 727px;
+}
+
+.biografia {
+    height: 348px;
+    background-color: black;
+    display: flex; 
+    justify-content: space-around;  
+}
+
+.texto-1 {
+    top: 65px;
+    width: 475px;   
+    height: 197px;
+    font-family: 'Raleway';
+    font-size: 16px;
+    color: white;
+    position: relative; 
+}
+
+.iguana-1 img {
+    top: 55px;
+    width: 399px;
+    height: 237px;
+    position: relative;
+    background-image: url(../img/iguana-1.jpg);
+}
+
+.informacion {
+    padding: 1px;
+    height: 348px;
+    background-color: #1E1A13;
+    opacity: 0.98;
+}
+
+.texto-2 {
+    text-align: center;
+    font-family: 'Raleway';
+    font-size: 47px;
+    color: white;
+}
+
+.icon {
+    top: 50px;
+    display: flex;
+    color: white;
+    justify-content: space-around;
+    text-align: center;
+    font-family: 'Raleway';
+    font-size: 24px;
+    position: relative;
+}
+
+.galeria {
+    height: 348px;
+    background-color: black;
+    display: flex; 
+    justify-content: space-around;  
+}
+
+.imagen {
+    top: 75px;
+    width: 316px;
+    height: 202px;
+    position: relative;
+    background-image: url(../img/iguana-2.jpg);
+    background-image: url(../img/iguana-3.jpg);
+    background-image: url(../img/iguana-4.jpg);
+}
+
+footer {
+    height: 102px;
+    background-color: #1E1A13;
+    opacity: 0.98;
+    padding: 1px;
+    text-align: center;
+}
+
+.texto-3 {
+    top: 25px;
+    height: 24px;
+    font-size: 20px;
+    font-family: 'Raleway';
+    color: white;
+    position: relative;
+    text-decoration: none;
+}
